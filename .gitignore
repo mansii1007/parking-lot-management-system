@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+*.jar
+out/
+bin/
+build/
+
+# Runtime data created when the app is run
+data/*.dat
+data/*.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+.vscode/
+*.log
